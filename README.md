@@ -9,11 +9,11 @@
 
 ### 🧠 About Me
 
-- 🎓 2nd-year student passionate about **Data Science**, **AI/ML**, and **Problem Solving**
-- 🔍 Exploring **C++**, **Python**, **NumPy**, **Pandas**, and **Data Visualization**
-- 🚀 Practicing DSA and core programming to build strong foundations
-- 🧠 Currently building logic via **recursion**, **OOP**, **pointers**, and **real-time practice**
-- 💡 Excited to implement AI/ML in meaningful projects
+- 🎓 2nd-year student deeply curious about **Data Science** & **Artificial Intelligence**  
+- 🧮 Currently learning **NumPy**, **Pandas**, and **Matplotlib** for data analysis  
+- 🤖 Soon diving into **Machine Learning**  
+- 🛠️ Comfortable with basic **HTML, CSS, and JavaScript**  
+- 🔬 I love exploring data, visualizing insights, and building intuitive logic behind solutions  
 
 ---
 
