@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asha Bakshi</h1>
-<h3 align="center">✨ Aspiring Data Scientist | C++ Learner | AI/ML Enthusiast ✨</h3>
+<h3 align="center">✨ Aspiring Data Scientist | AI/ML Enthusiast ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashabakshi&label=Profile%20views&color=0e75b6&style=flat" alt="ashabakshi" />
