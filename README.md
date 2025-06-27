@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asha Bakshi</h1>
-<h3 align="center">Aspiring Data Scientist | Exploring AI & ML</h3>
+<h3 align="center">✨ Aspiring Data Scientist | C++ Learner | AI/ML Enthusiast ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashabakshi&label=Profile%20views&color=0e75b6&style=flat" alt="ashabakshi" />
@@ -9,17 +9,18 @@
 
 ### 🧠 About Me
 
-- 🎓 2nd-year student deeply curious about **Data Science** & **Artificial Intelligence**  
-- 🧮 Currently learning **NumPy**, **Pandas**, and **Matplotlib** for data analysis  
-- 🤖 Soon diving into **Machine Learning**  
-- 🛠️ Comfortable with basic **HTML, CSS, and JavaScript**  
-- 🔬 I love exploring data, visualizing insights, and building intuitive logic behind solutions  
+- 🎓 2nd-year student passionate about **Data Science**, **AI/ML**, and **Problem Solving**
+- 🔍 Exploring **C++**, **Python**, **NumPy**, **Pandas**, and **Data Visualization**
+- 🚀 Practicing DSA and core programming to build strong foundations
+- 🧠 Currently building logic via **recursion**, **OOP**, **pointers**, and **real-time practice**
+- 💡 Excited to implement AI/ML in meaningful projects
 
 ---
 
-### 🧰 Skills & Tools
+### 🚀 Key Skills
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
@@ -29,25 +30,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 </p>
 
+---
+
+### 📌 Learning & Practicing
+
+- 👨‍💻 **C++ Fundamentals**: Arrays, Strings, OOP, Functions, Pointers, Recursion, Patterns
+- 📊 Data Analysis: NumPy, Pandas, Matplotlib
+- 🧠 Preparing for **AI/ML** with structured logic building
+- 🧪 [cpp-concepts-and-practice](https://github.com/ashabakshi/cpp-concepts-and-practice) — _a structured folder of all practice questions & C++ concepts_
 
 ---
 
-### 📌 Current Learning
+### 💼 Featured Projects
 
-- 📊 Data handling with **NumPy**, **Pandas**
-- 📈 Visualization with **Matplotlib**
-- 🔜 Will begin **Machine Learning** fundamentals soon
-- 🧠 Planning to explore **projects in AI & predictive modeling**
+| Name | Description | Live Preview or Code |
+|------|-------------|-----------------------|
+| 💱 Currency Converter | JavaScript-based real-time converter with clean UI | 👉 [Check it out](https://github.com/ashabakshi/Currency-Converter-javascript-) |
+| ✊ Rock Paper Scissors | Simple and fun game built with JS logic | 🎮 [Play or View Code](https://github.com/ashabakshi/Rock-Paper-Scissors-Game-JavaScript-) |
+| ❌⭕ Tic Tac Toe | Classic logic game using DOM and JS | 🎯 [Try it here](https://github.com/ashabakshi/Tic-Tac-Toe-Javascript-) |
 
----
 
-### 🔗 Mini Projects (Web-based for skill building)
+### 📊 GitHub Stats
 
-- 💱 [Currency Converter](https://github.com/ashabakshi/Currency-Converter-javascript-)  
-- ✊ [Rock Paper Scissors Game](https://github.com/ashabakshi/Rock-Paper-Scissors-Game-JavaScript-)  
-- ❌⭕ [Tic Tac Toe Game](https://github.com/ashabakshi/Tic-Tac-Toe-Javascript-)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashabakshi&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+</p>
 
-> ⚒️ These helped me understand basic logic, UI building & DOM scripting
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashabakshi&layout=compact&theme=gruvbox" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashabakshi&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
+
 
 ---
 
@@ -65,20 +83,5 @@
   </a>
 </p>
 
-
-
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashabakshi&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashabakshi&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashabakshi&theme=default" alt="GitHub Streak" />
-</p>
