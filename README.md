@@ -39,7 +39,7 @@
 - 🤖 Machine Learning: **Scikit-Learn**, Regression Models, Classification Models  
 - 🌲 Currently: **Ensemble Models**  
 - 🧠 Next Step: **Deep Learning**  
-- 👨‍💻 Also exploring: C++, HTML, CSS, JavaScript  
+- 👨‍💻 Also explored: C++, HTML, CSS, JavaScript  
 
 ---
 
