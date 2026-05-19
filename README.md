@@ -1,14 +1,39 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Asha+Bakshi+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+AI%2FML+Explorer;Python+%E2%80%A2+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashabakshi&label=Profile+Views&color=F97316&style=flat-square" alt="profile views" />
-</p>
+<!-- 🔥 ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:EE5A24,100:6C5CE7&height=200&section=header&text=ASHA%20BAKSHI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50"/>
 
----
+<br/>
 
-## 🙋‍♀️ About Me
+<!-- BIG ANIMATED INTRO -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&repeat=true&width=700&height=50&lines=🚀+Aspiring+Data+Scientist;🧠+Deep+Learning+%26+NLP+Builder;📊+Turning+Data+into+Decisions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1000&color=FDA085&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Python+%E2%80%A2+TensorFlow+%E2%80%A2+Keras+%E2%80%A2+Scikit-Learn+%E2%80%A2+LSTM+%E2%80%A2+NLP;Currently+exploring+Transformers+%26+Attention+Mechanisms;Next+up%3A+LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashabakshi&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=1a1a2e" alt="profile views" />
+&nbsp;
+<a href="https://github.com/ashabakshi?tab=followers">
+  <img src="https://img.shields.io/github/followers/ashabakshi?label=FOLLOWERS&style=for-the-badge&color=EE5A24&labelColor=1a1a2e&logo=github" alt="followers"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6C5CE7&height=2&section=header" width="100%"/>
+</div>
+
+## &nbsp; 🙋‍♀️ About Me
 
 - 🎓 **3rd-year BCA student** deeply focused on Data Science & AI/ML
 - 🐍 Strong in **Python** — from core fundamentals to full DS libraries
@@ -19,147 +44,262 @@
 - 🎯 Goal: Land a **Data Science / AI-ML role** at a product company
 - 🚀 Believer in **building real projects > reading theory**
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6C5CE7&height=2&section=header" width="100%"/>
+</div>
 
-### 🐍 Python & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
+## &nbsp;⚡ Tech Arsenal
 
-### 🤖 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF4B4B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🗄️ Data & Tools
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,postgres,git,github,vscode&theme=dark&perline=8" alt="Skills" />
+</a>
 
-### 💻 Also Explored
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<br/><br/>
 
----
+<table>
+<tr>
+<td align="center">
+<h4>🐍 Python & DS</h4>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+</td>
+<td align="center">
+<h4>🤖 ML & DL</h4>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LSTM-8E44AD?style=flat-square&logo=python&logoColor=white"/>
+</td>
+<td align="center">
+<h4>🗄️ Tools</h4>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-## 🗂️ Repositories
+</div>
 
-### 🧠 Deep Learning & NLP
-> [`Deep_Learning-`](https://github.com/ashabakshi/Deep_Learning-)
+<br/>
 
-Real-world NLP & DL projects built from scratch:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6C5CE7&height=2&section=header" width="100%"/>
+</div>
 
-| Project | Description |
-|---------|-------------|
-| 📄 **Resume Screening** | Automated resume classification using NLP |
-| 🔑 **Keyword Extraction** | Extract key terms from text documents |
-| 💬 **Sentiment Analysis** | Classify sentiment from text data |
-| ❓ **Quora Duplicate Questions** | Detect semantically duplicate question pairs |
-| 🚫 **SMS Spam Classifier** | NLP-based spam detection model |
+## &nbsp;🚀 Live Apps — Try Them!
 
----
+<div align="center">
 
-### 🤖 Machine Learning Practice
-> [`Machine-learning-practice`](https://github.com/ashabakshi/Machine-learning-practice)
+<table>
+<tr>
+<td align="center" width="50%">
 
-Comprehensive ML coverage — algorithms, concepts, and applied projects:
+### 🧠 Next Word Predictor
+*LSTM-powered real-time text prediction*
+<br/><br/>
+`LSTM` `TensorFlow` `Streamlit` `NLP`
+<br/><br/>
 
-**Algorithms Covered:**
-`Linear Regression` · `Logistic Regression` · `Decision Trees` · `KNN` · `SVM` · `Naive Bayes` · `Ensemble Methods` · `Gradient Descent` · `Unsupervised ML` · `Cross Validation` · `Feature Selection` · `Regularization`
+[![Try It](https://img.shields.io/badge/🔴_LIVE_DEMO-FF6B6B?style=for-the-badge&logoColor=white)](https://ashabakshi-nextwordpre-lstm13.streamlit.app)
 
-**Projects inside:**
+</td>
+<td align="center" width="50%">
+
+### ❤️ Heart Stroke Predictor
+*KNN-based health risk assessment*
+<br/><br/>
+`KNN` `Scikit-Learn` `Streamlit` `ML`
+<br/><br/>
+
+[![Try It](https://img.shields.io/badge/🔴_LIVE_DEMO-FF6B6B?style=for-the-badge&logoColor=white)](https://heart-stroke-prediction-ashabakshi.streamlit.app/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6C5CE7&height=2&section=header" width="100%"/>
+</div>
+
+## &nbsp;📂 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/ashabakshi/DL_Clear_Basics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=DL_Clear_Basics&bg_color=1a1a2e&border_color=FF6B6B&title_color=FF6B6B&icon_color=EE5A24&text_color=eaeaea" width="47%"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ashabakshi/Deep_Learning-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Deep_Learning-&bg_color=1a1a2e&border_color=EE5A24&title_color=EE5A24&icon_color=FF6B6B&text_color=eaeaea" width="47%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ashabakshi/Natural_Language_Processing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Natural_Language_Processing&bg_color=1a1a2e&border_color=6C5CE7&title_color=6C5CE7&icon_color=FF6B6B&text_color=eaeaea" width="47%"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ashabakshi/Machine-learning-practice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Machine-learning-practice&bg_color=1a1a2e&border_color=FF6B6B&title_color=FF6B6B&icon_color=6C5CE7&text_color=eaeaea" width="47%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ashabakshi/Python_pyLib_clear_Basics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Python_pyLib_clear_Basics&bg_color=1a1a2e&border_color=EE5A24&title_color=EE5A24&icon_color=6C5CE7&text_color=eaeaea" width="47%"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ashabakshi/Heart-stroke-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Heart-stroke-prediction&bg_color=1a1a2e&border_color=6C5CE7&title_color=6C5CE7&icon_color=EE5A24&text_color=eaeaea" width="47%"/>
+</a>
+
+</div>
+
+<br/>
+
+### 🧠 DL_Clear_Basics — Deep Learning Revision
+> *Complete revision of Deep Learning fundamentals — theory + hands-on implementation*
+
+| Module | Topics | Status |
+|:-------|:-------|:------:|
+| **ANN** | Perceptron, Activation Functions, Forward/Backprop | ✅ |
+| **CNN** | Convolutions, Pooling, MNIST Classification | ✅ |
+| **RNN** | Sequence Models, LSTM, Next Word Predictor | ✅ |
+| **Transformers** | Attention, Multi-Head, Positional Encoding | 🔄 |
+
+### 🧬 Deep_Learning- — NLP Projects
+> *Real-world NLP projects from scratch with TensorFlow/Keras*
+
+| Project | What it does |
+|:--------|:------------|
+| 📄 **Resume Screening** | Multi-class resume classification |
+| 🔑 **Keyword Extraction** | Extract key terms from text |
+| 💬 **Sentiment Analysis** | Positive / Negative / Neutral |
+| ❓ **Quora Duplicates** | Detect duplicate question pairs |
+
+### 📝 Natural_Language_Processing
+> *Core NLP concepts + emotion detection project*
+
+| Notebook | Topic |
+|:---------|:------|
+| 📊 **BoW & TF-IDF** | Text vectorization |
+| 😃 **Emotions Detection** | Emotion classification |
+| 📘 **NLP Notes** | Tokenization, Lemmatization |
+
+### 🤖 Machine-learning-practice
+> *Complete ML landscape — algorithms + projects*
+
+**Algorithms:** `Linear Reg` · `Logistic Reg` · `Decision Trees` · `KNN` · `SVM` · `Naive Bayes` · `Ensembles` · `Gradient Descent` · `Unsupervised` · `Cross Val` · `Feature Selection` · `Regularization`
 
 | Project | Type |
-|---------|------|
-| 🚀 **Spaceship Titanic** | Kaggle Competition — Classification |
-| 🔁 **Duplicate Question Detection** | NLP + Classification |
-| 🌳 **Forest Fire Prediction** | Regression |
-| 🏠 **California Housing Price** | Linear Regression |
-| ❤️ **Heart Stroke Prediction** | Classification — [Live App](https://heart-stroke-prediction-ashabakshi.streamlit.app/) |
+|:--------|:-----|
+| 🚀 **Spaceship Titanic** | Kaggle Competition |
+| 🌳 **Forest Fire** | Regression |
+| 🏠 **California Housing** | Linear Regression |
+| ❤️ **Heart Stroke** | Classification — [Live 🔗](https://heart-stroke-prediction-ashabakshi.streamlit.app/) |
 
----
+<br/>
 
-### 🐍 Python & Libraries Foundation
-> [`Python_pyLib_clear_Basics`](https://github.com/ashabakshi/Python_pyLib_clear_Basics)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6C5CE7&height=2&section=header" width="100%"/>
+</div>
 
-Full revision of Python core + all DS libraries — loops, functions, NumPy, Pandas, Matplotlib, Seaborn, and more. Clean reference for interview prep.
-
----
-
-### 🌐 Web & JS Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 💱 **Currency Converter** | Real-time JS converter | [View](https://github.com/ashabakshi/Currency-Converter-javascript-) |
-| ✊ **Rock Paper Scissors** | Browser game with JS logic | [View](https://github.com/ashabakshi/Rock-Paper-Scissors-Game-JavaScript-) |
-| ❌⭕ **Tic Tac Toe** | DOM-based game | [View](https://github.com/ashabakshi/Tic-Tac-Toe-Javascript-) |
-| 💻 **C++ Concepts** | Full C++ practice vault | [View](https://github.com/ashabakshi/cpp-concepts-and-practice) |
-
----
-
-## 📚 Learning Roadmap
+## &nbsp;📚 Learning Roadmap
 
 ```
-✅ Python Fundamentals + All DS Libraries
-✅ Statistics — Probability, Bayes, Hypothesis Testing, CLT
-✅ Machine Learning — Full algorithm coverage
-✅ SQL & PostgreSQL — Queries, Window Functions, Aggregations
-🔄 Deep Learning & NLP — In Progress (active projects)
-⏳ LLMs, RAG & AI Agents
-⏳ Power BI & Data Storytelling
-⏳ Portfolio Polish + Interview Prep
+✅  Python Fundamentals + All DS Libraries
+✅  Statistics — Probability, Bayes, Hypothesis Testing, CLT
+✅  Machine Learning — Full Algorithm Coverage
+✅  SQL & PostgreSQL — Queries, Window Functions, Aggregations
+🔄  Deep Learning — ANN ✅ CNN ✅ RNN ✅ Transformers 🔄
+🔄  NLP — Projects + Core Concepts
+⏳  LLMs, RAG & AI Agents
+⏳  Power BI & Data Storytelling
+⏳  Portfolio Polish + Interview Prep
 ```
 
----
+<br/>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6C5CE7&height=2&section=header" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashabakshi&show_icons=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=F97316&border_color=30363d" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashabakshi&layout=compact&theme=dark&bg_color=0d1117&title_color=F97316&border_color=30363d" alt="Top Languages" width="40%"/>
-</p>
+## &nbsp;📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashabakshi&theme=dark&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316&border=30363d" alt="GitHub Streak" width="55%"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ashabakshi&show_icons=true&bg_color=1a1a2e&title_color=FF6B6B&icon_color=EE5A24&text_color=eaeaea&border_color=FF6B6B&count_private=true&include_all_commits=true" alt="Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashabakshi&layout=compact&bg_color=1a1a2e&title_color=FF6B6B&text_color=eaeaea&border_color=EE5A24&langs_count=8" alt="Languages" width="40%"/>
 
-## 🤝 Connect with Me
+<br/><br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/asha-bakshi-7227542a2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Asha_bakshi_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/asha_bakshi_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<img src="https://streak-stats.demolab.com/?user=ashabakshi&background=1a1a2e&ring=FF6B6B&fire=EE5A24&currStreakLabel=FF6B6B&sideLabels=eaeaea&border=FF6B6B&dates=aaaaaa&currStreakNum=eaeaea&sideNums=eaeaea" alt="Streak" width="55%"/>
 
----
+</div>
 
-<p align="center">
-  <i>⭐ "Turning data into decisions — one project at a time."</i>
-</p>
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6C5CE7&height=2&section=header" width="100%"/>
+</div>
+
+## &nbsp;🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asha-bakshi-7227542a2" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/Asha_bakshi_" target="_blank">
+  <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/asha_bakshi_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="70%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=550&height=35&lines=%E2%AD%90+%22Turning+data+into+decisions+%E2%80%94+one+project+at+a+time.%22" alt="quote" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:EE5A24,100:6C5CE7&height=150&section=footer"/>
