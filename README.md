@@ -3,16 +3,9 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:FE428E,100:00D9FF&height=220&section=header&text=Asha%20Bakshi&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI/ML%20Explorer&descSize=18&descColor=E2E8F0&descAlignY=55&animation=fadeIn"/>
 
-
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=45&lines=%F0%9F%90%8D+Python+%E2%80%A2+%F0%9F%A4%96+ML+%E2%80%A2+%F0%9F%A7%A0+Deep+Learning+%E2%80%A2+%F0%9F%92%AC+NLP;%F0%9F%93%8A+Turning+Data+into+Decisions;%F0%9F%94%A5+Building+Real+Projects+%3E+Reading+Theory;%E2%9A%A1+TensorFlow+%E2%80%A2+Keras+%E2%80%A2+Scikit--Learn+%E2%80%A2+LSTM" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18"/> &nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=400&height=25&lines=🔭+Currently+learning+Transformers;🧠+Building+NLP+projects+from+scratch;⚡+Exploring+LLMs+%26+AI+Agents+next" alt="Currently" />
 
 <br/><br/>
 
@@ -131,41 +124,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25">&nbsp; Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/ashabakshi/DL_Clear_Basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=DL_Clear_Basics&theme=radical&bg_color=0d1117&border_color=FE428E&title_color=FE428E&icon_color=00D9FF&text_color=8B949E" width="47%"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ashabakshi/Deep_Learning-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Deep_Learning-&theme=radical&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&icon_color=FE428E&text_color=8B949E" width="47%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ashabakshi/Natural_Language_Processing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Natural_Language_Processing&theme=radical&bg_color=0d1117&border_color=FE428E&title_color=FE428E&icon_color=00D9FF&text_color=8B949E" width="47%"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ashabakshi/Machine-learning-practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Machine-learning-practice&theme=radical&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&icon_color=FE428E&text_color=8B949E" width="47%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ashabakshi/Python_pyLib_clear_Basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Python_pyLib_clear_Basics&theme=radical&bg_color=0d1117&border_color=FE428E&title_color=FE428E&icon_color=00D9FF&text_color=8B949E" width="47%"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ashabakshi/Heart-stroke-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashabakshi&repo=Heart-stroke-prediction&theme=radical&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&icon_color=FE428E&text_color=8B949E" width="47%"/>
-</a>
-
-</div>
-
-<br/>
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25">&nbsp; My Repositories
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20">&nbsp; DL_Clear_Basics — Deep Learning Revision
 
